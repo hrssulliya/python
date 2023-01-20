@@ -1,0 +1,14 @@
+Name:Haris 
+Age: 23
+Name:Huzaifa 
+Age: 28
+Name:Hanjala 
+Age: 26
+Name:Mohammad 
+Age: 21
+Name:Rafik Suleman 
+Age: 51
+Name:Javid 
+Age: 22
+Name:juned 
+Age: 48
